@@ -1,3 +1,5 @@
 pan
 gaseosa
 jugo
+oreo
+cartas
